@@ -1,0 +1,5 @@
+.idea
+*.iml
+*.iws
+.Ds_Store
+out/
